@@ -2,6 +2,9 @@
 
 Marketing team emails for Seattle Union Gospel Mission
 
+## Overview
+This guide is to provide an overview for general emails for SUGM. Due to limitations for email providers, it is best practice to use table layouts for all emails. Below are summaries for email components, layours, and general guidence when developing the emails. The goal of this repo is to provide a source of truth and version history for the templates.
+
 ## Definitions
 
 - codes: Represents the id number for the email and associated campain. ex: `L23F1EAP`
