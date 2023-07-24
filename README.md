@@ -88,6 +88,90 @@ Use the image snipped below to include in-line images. Update the src url, and t
 </tr>
 ```
 
+### Events
+Update event name, address and copy
+
+```
+<!--Start Event-->
+              <tr>
+                <td
+                  style="
+                    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+                    font-size: 20px;
+                    line-height: 30px;
+                    font-weight: normal;
+                    color: #000000;
+                    padding-left: 30px;
+                    padding-right: 30px;
+                    
+                  "
+                  align="left">
+                  <a
+style="color: #f15a29; text-decoration: underline"
+href="https://www.ugm.org/changed-lives/?utm_source=convio&amp;utm_medium=email&amp;utm_campaign=L23G3EAPF2EAP&amp;utm_content=sustainer-engagement&amp;s_subsrc=L23G3EAPF2EAP">
+    <span style="color: #f15a29; text-decoration: underline">
+      Trauma-Informed Care Training
+    </span>
+</a>
+                </td>
+              </tr>
+              <tr>
+    <td
+        style="
+            font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: normal;
+            color: #000000;
+            padding-left: 30px;
+            padding-right: 30px;
+          
+            "
+            align="left">
+            Wednesday, September 6, 10–12pm
+    </td>
+</tr>
+<tr>
+    <td
+        style="
+            font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: normal;
+            color: #000000;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-bottom: 20px;
+            "
+            align="left">
+            Mission Admin Conference Room, 3800 S. Othello Street, Seattle, WA 98118
+    </td>
+</tr>
+<tr>
+    <td
+        style="
+            font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: normal;
+            color: #000000;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-bottom: 20px;
+            "
+            align="left">
+            This Trauma-Informed Care training will equip you to use biblical principles to support, love, and care for our homeless neighbors (and others) who have experienced significant life trauma. This will include education on what “trauma-informed care” is, as well as ways to implement practical steps in caring for others here at the Mission and in your everyday life. To sign up, get in touch with Glenn at <a
+style="color: #f15a29; text-decoration: underline"
+href="https://www.ugm.org/changed-lives/?utm_source=convio&amp;utm_medium=email&amp;utm_campaign=L23G3EAPF2EAP&amp;utm_content=sustainer-engagement&amp;s_subsrc=L23G3EAPF2EAP">
+    <span style="color: #f15a29; text-decoration: underline">
+        hgolson@ugm.org
+    </span>
+</a> or (206) 432-8474.
+    </td>
+</tr>
+<!--End Event-->
+```
+
 ### Section Headers
 
 Use the snippet below to create a section header. Use all caps when updating the section copy.
